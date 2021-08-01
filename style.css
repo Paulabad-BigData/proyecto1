@@ -7,6 +7,10 @@ body{
 .green{
     border-radius: 95%;
 }
+#rock{
+    background-color: #00bcd4;
+    font-size: 30px;
+}
 .yellow{
     background-color: #fff59d;
 }
