@@ -4,3 +4,9 @@ body{
     font-family: sans-serif;
     text-align: center;
 }
+.green{
+    border-radius: 95%;
+}
+.yellow{
+    background-color: #fff59d;
+}
