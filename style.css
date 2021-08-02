@@ -4,6 +4,9 @@ body{
     font-family: sans-serif;
     text-align: center;
 }
+.violet{
+    background-color: #ce93d8;
+}
 .green{
     border-radius: 95%;
 }
